@@ -1,0 +1,32 @@
+* {
+    font-family: 'Fira Sans', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.calculator {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    max-width: 300px;
+    margin: 0 auto;
+}
+.button {
+    padding: 10px;
+    font-size: 18px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
+.display {
+    display: flex;
+    justify-content: right;
+    grid-column: span 4;
+    background-color: #f5f5f5;
+    padding: 10px;
+    font-size: 20px;
+    text-align: right;
+
+    width: 300px;
+}
