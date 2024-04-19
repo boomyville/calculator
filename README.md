@@ -4,7 +4,7 @@ A calculator made with javascript / CSS / HTML
 
 Based off [The Odin Project](https://www.theodinproject.com/lessons/foundations-calculator)
 
-[Test it here](https://boomyville.github.io/rock-paper-scissors)
+[Test it here](https://boomyville.github.io/calculator)
 
 Alternatively, just use a real calculator or even Google
 
